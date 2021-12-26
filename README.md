@@ -1,9 +1,9 @@
 # Data Preprocessing
-- **Neuroscience / Neuroimaging concepts**
+- **Neuroscience / Neuroimaging Concepts**
     * Scanner artifacts
     * Motion correction
     * Slice time correction
-- **Datascience / Coding concepts**
+- **Data Science / Coding Concepts**
     * Functions
     * Conditional Statements
     * Standard Deviation
